@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-beert-io&layout=compact&theme=blue-green)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
