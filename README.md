@@ -20,5 +20,8 @@ Here are some ideas to get you started:
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-beert-io&layout=compact&theme=blue-green)
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
