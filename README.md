@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=dev-beert-io&theme=xcode)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
