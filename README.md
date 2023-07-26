@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### 📊 Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-beert-io&show_icons=true&theme=radical)
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-beert-io&layout=compact&theme=blue-green)
@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 #### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+
+### 🎓 Certificates & Trainings
 <!--START_SECTION:badges-->
 
 [![SAP Certified Development Associate - SAP Fiori Application Developer](https://images.credly.com/size/110x110/images/c0d964b1-5696-474f-9e43-ca2d3469e043/C_FIORDEV_21.png)](http://www.credly.com/badges/73d61182-d81b-4733-9b78-9f807de245bd "SAP Certified Development Associate - SAP Fiori Application Developer")
