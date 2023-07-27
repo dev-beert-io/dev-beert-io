@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working with ...
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-beert-io&layout=compact&theme=blue-green)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-beert-io&layout=compact&theme=blue-green&show_icons=true)
 
 
 ### 📊 Statistics
