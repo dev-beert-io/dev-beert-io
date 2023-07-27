@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working with ...
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-beert-io&layout=compact&theme=blue-green&show_icons=true)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-beert-io&layout=compact&theme=merko&show_icons=true)
 
 
 ### 📊 Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-beert-io&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-beert-io&show_icons=true&theme=merko)
 
 
 #### 😂 Here is a random joke that'll make you laugh!
