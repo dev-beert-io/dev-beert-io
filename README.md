@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 #### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
+<!--
 ### 🎓 Certificates & Trainings
 <!--START_SECTION:badges-->
 
@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 [![SAP Certified Application Associate - SAP HANA Cloud Modeling](https://images.credly.com/size/110x110/images/3ca753fc-31b8-4078-8e2c-8781f677334c/image.png)](http://www.credly.com/badges/1d31ecc9-0973-4473-a6b8-2633838cd777 "SAP Certified Application Associate - SAP HANA Cloud Modeling")
 [![Technology Knowledge 2021 - User Experience - SAP Fiori End-2-End Workshop](https://images.credly.com/size/110x110/images/c877ccbc-da7e-4f8c-b848-d60288c20939/User_Experience_-_SAP_Fiori_End-2-End_Workshop_2021.png)](http://www.credly.com/badges/a0951c98-3a73-4839-bed3-433db82f2c05 "Technology Knowledge 2021 - User Experience - SAP Fiori End-2-End Workshop")
 <!--END_SECTION:badges-->
+-->
