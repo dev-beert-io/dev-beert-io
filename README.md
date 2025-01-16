@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+<!--
 ![GitHub last commit](https://img.shields.io/github/last-commit/dev-beert-io/dev-beert-io?label=updated)
-
+-->
 
 <!--
 **dev-beert-io/dev-beert-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
