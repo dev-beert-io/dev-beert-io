@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 <!--
 ### 🎓 Certificates & Trainings
-<!--START_SECTION:badges-->
 
 [![SAP Certified Development Associate - SAP Fiori Application Developer](https://images.credly.com/size/110x110/images/c0d964b1-5696-474f-9e43-ca2d3469e043/C_FIORDEV_21.png)](http://www.credly.com/badges/73d61182-d81b-4733-9b78-9f807de245bd "SAP Certified Development Associate - SAP Fiori Application Developer")
 [![SAP Certified Application Associate - SAP HANA Cloud Modeling](https://images.credly.com/size/110x110/images/3ca753fc-31b8-4078-8e2c-8781f677334c/image.png)](http://www.credly.com/badges/1d31ecc9-0973-4473-a6b8-2633838cd777 "SAP Certified Application Associate - SAP HANA Cloud Modeling")
